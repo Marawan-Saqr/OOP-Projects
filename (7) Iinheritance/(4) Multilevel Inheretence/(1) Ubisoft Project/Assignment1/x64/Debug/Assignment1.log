@@ -1,0 +1,6 @@
+﻿  Assignment1.cpp
+D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(4) Multilevel Inheretence\(1) Ubisoft Project\Assignment1\Assignment1.cpp(19,16): warning C4305: '=': truncation from 'double' to 'float'
+D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(4) Multilevel Inheretence\(1) Ubisoft Project\Assignment1\Assignment1.cpp(228,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(4) Multilevel Inheretence\(1) Ubisoft Project\Assignment1\Assignment1.cpp(244,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(4) Multilevel Inheretence\(1) Ubisoft Project\Assignment1\Assignment1.cpp(258,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  Assignment1.vcxproj -> D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(4) Multilevel Inheretence\(1) Ubisoft Project\x64\Debug\Assignment1.exe

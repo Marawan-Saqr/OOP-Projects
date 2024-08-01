@@ -1,0 +1,6 @@
+﻿  Assignment1.cpp
+D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(6) Student_two\Assignment1\Assignment1.cpp(56,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(6) Student_two\Assignment1\Assignment1.cpp(64,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(6) Student_two\Assignment1\Assignment1.cpp(72,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(6) Student_two\Assignment1\Assignment1.cpp(78,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Assignment1.vcxproj -> D:\My Career\Tracks & Courses\Web Development\Courses\OOP\Projects\(7) Iinheritance\(6) Student_two\x64\Debug\Assignment1.exe
